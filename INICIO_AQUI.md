@@ -1,6 +1,6 @@
-# 🚀 ¡Bienvenido al Curso de Algoritmos!
+#  ¡Bienvenido al Curso de Algoritmos!
 
-## 📍 ¿Por dónde empezar?
+##  ¿Por dónde empezar?
 
 Si es tu primera vez, sigue este orden:
 
@@ -45,14 +45,14 @@ Si es tu primera vez, sigue este orden:
 
 ---
 
-## 💡 Tips Importantes
+##  Tips Importantes
 
 1. **Ejecuta cada archivo** para ver los ejemplos
 2. **Modifica el código** para entender mejor
 3. **Practica los ejercicios** al final de cada archivo
 4. **No tengas prisa** - entiende bien cada concepto
 
-## 🎯 Objetivos de Aprendizaje
+##  Objetivos de Aprendizaje
 
 Al final deberías poder:
 - ✅ Entender complejidad de algoritmos
@@ -63,5 +63,5 @@ Al final deberías poder:
 
 ---
 
-**¡Empieza con `01_que_es_complejidad.py`!** 🎉
+**¡Empieza con `01_que_es_complejidad.py`!** 
 
