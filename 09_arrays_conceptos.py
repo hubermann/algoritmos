@@ -267,3 +267,7 @@ if __name__ == "__main__":
 💡 Practica manipulando arrays, es fundamental para programar!
     """)
 
+
+
+
+

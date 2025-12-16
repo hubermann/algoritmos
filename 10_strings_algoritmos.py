@@ -285,3 +285,7 @@ if __name__ == "__main__":
 💡 Los strings son fundamentales en programación, practica mucho!
     """)
 
+
+
+
+

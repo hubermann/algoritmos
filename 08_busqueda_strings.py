@@ -27,3 +27,4 @@ def busqueda_naive(texto, patron):
 
 print("Para más algoritmos de strings, ver: 10_strings_algoritmos.py")
 
+

@@ -300,3 +300,7 @@ print("""
 💡 Linked Lists son fundamentales para entender estructuras más complejas!
 """)
 
+
+
+
+

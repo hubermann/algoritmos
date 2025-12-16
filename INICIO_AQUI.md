@@ -6,7 +6,7 @@ Si es tu primera vez, sigue este orden:
 
 ### **Día 1-2: Fundamentos**
 1. `01_que_es_complejidad.py` - Entiende Big O
-2. `binary_search.py` - Ya tienes este ✅
+2. `02b_binary_search.py` - Búsqueda binaria
 3. `02_busqueda_lineal.py` - Búsqueda simple
 4. `07_recursion.py` - Concepto fundamental
 
